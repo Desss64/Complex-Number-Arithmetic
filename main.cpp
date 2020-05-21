@@ -1,9 +1,3 @@
-/** Destinee Ekanem
- *  Date: 5/1/20
- *  Description: The program builds a complex number class that will handle the basic arithmetic functions, streaming, constructions,
- *  and some comparison functions for complex numbers.
- */
-
 #include <cmath>
 #include <cstdio>
 #include <cstdlib>
